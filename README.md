@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alchemistOfWeb
 - 👀 I’m interested in web development and artificial intelligence
 - 🌱 I’m currently learning php, laravel, docker, python
-- 💞️ I’m looking to collaborate on ... I don't know
+- 💞️ I’m looking to collaborate on web development with Mediasoft
 - 📫 How to reach me - easilly. send me message on nikitakzntcv@gmail.com
 
 <!---
