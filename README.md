@@ -8,13 +8,13 @@
 
 ## My skills:
 - ### Backend
-python, Django, php, Laravel, Selenium
+python, Django, php, Laravel
 - ### Frontend
 html+css, js, jquery, svelte
 - ### Desktop 
-cpp, python, qt5, pyqt
+python, pyqt
 - ### Data Science
-numpy, pandas, geopandas, scipy
+python, numpy, pandas, geopandas, scipy
 
 <!---
 alchemistOfWeb/alchemistOfWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
