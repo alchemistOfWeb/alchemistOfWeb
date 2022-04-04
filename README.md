@@ -16,6 +16,22 @@ python, pyqt
 - ### Data Science
 python, numpy, pandas, geopandas, scipy
 
+<hr>
+
+[![Alchemist's GitHub stats](https://github-readme-stats.vercel.app/api?username=alchemistOfWeb&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=prs)](https://github.com/alchemistOfWeb/github-readme-stats)
+
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistOfWeb&layout=compact&theme=dark)](https://github.com/alchemistOfWeb/github-readme-stats)
+
+<hr>
+<h2> Portfolio: </h2>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=solarSystemTour&theme=dark)](https://github.com/alchemistOfWeb/solarSystemTour)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=film_base&theme=dark)](https://github.com/alchemistOfWeb/film_base)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=Kanban_board_bkend&theme=dark)](https://github.com/alchemistOfWeb/Kanban_board_bkend)
+
+
 <!---
 alchemistOfWeb/alchemistOfWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
