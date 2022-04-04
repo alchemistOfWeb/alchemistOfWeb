@@ -27,10 +27,11 @@ python, numpy, pandas, geopandas, scipy
 <hr>
 <h2> Portfolio: </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=solarSystemTour&theme=dark)](https://github.com/alchemistOfWeb/solarSystemTour)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=film_base&theme=dark)](https://github.com/alchemistOfWeb/film_base)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=Kanban_board_bkend&theme=dark)](https://github.com/alchemistOfWeb/Kanban_board_bkend)
-
+| | |
+| :--: | :--: |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=solarSystemTour&theme=dark)](https://github.com/alchemistOfWeb/solarSystemTour) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=film_base&theme=dark)](https://github.com/alchemistOfWeb/film_base)|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=Kanban_board_bkend&theme=dark)](https://github.com/alchemistOfWeb/Kanban_board_bkend) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=checklist_service&theme=dark)](https://github.com/alchemistOfWeb/checklist_service)|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alchemistOfWeb&repo=opinion_scrapper_project&theme=dark)](https://github.com/alchemistOfWeb/opinion_scrapper_project)|
 
 <!---
 alchemistOfWeb/alchemistOfWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
