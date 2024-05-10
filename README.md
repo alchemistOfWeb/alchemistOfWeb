@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/alchemistOfWeb)
+![Profile views](https://komarev.com/ghpvc/?username=alchemistOfWeb)
 
 - 👋 Hi, I’m @alchemistOfWeb
 - 🎮 I play computer games, go hiking and camping, and travel.
