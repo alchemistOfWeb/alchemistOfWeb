@@ -1,11 +1,12 @@
 ![Profile views](https://gpvc.arturio.dev/alchemistOfWeb)
 
 - 👋 Hi, I’m @alchemistOfWeb
-- 👀 I’m interested in maths and game development.
-- 📕 I love novels by Roger Zelazny and Chekhov. 
-- 🌱 I’m currently learning maths and looking for a job 
-- 🎯 I'm going to make my best video game.
+- 🎮 I play computer games, go hiking and camping, and travel.
+- 👀 I am looking for a job as a Python developer.
+- 🌱 At the moment, I am studying at the university in the field of 'applied mathematics and computer science.'
+- 🎯 I want to gain experience and work on developing my own project within a team.
 - 📫 How to reach me - easy. send me message to nikitakzntcv@gmail.com or [tg](https://t.me/Nikitas_ascendance)
+
 
 ## My skills:
 - ### Backend
