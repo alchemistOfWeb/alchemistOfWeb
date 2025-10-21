@@ -60,7 +60,7 @@ _Sept 2023 - Nov 2023 (solo project)_
 ## 🧩 Personal Projects
 *(Educational & experimental work)*
 
-### [TODO with ai]()
+### [TODO with ai](https://github.com/alchemistOfWeb/Todo-with-ai)
 > **Stack:** Flask, PostgreSQL, Docker, Docker Compose, SQLAlchemy, Jinja2, pytest  
 > AI-powered to-do manager built around OpenAI API integration.  
 > Users can generate and edit personalized task lists directly via ChatGPT prompts.  
