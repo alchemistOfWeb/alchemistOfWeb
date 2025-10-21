@@ -1,15 +1,19 @@
 ![Profile views](https://komarev.com/ghpvc/?username=alchemistOfWeb)
 
-# 👋 Hi, I'm Nikita — Full-stack Python Developer
+# 👋 Hi, I'm AlchemistOfWeb - Full-stack Python Developer
 
-I build pragmatic web apps with clean architecture and strong attention to performance.  
-Currently studying **Applied Mathematics & Computer Science** and shipping side-projects in Python/Django, Flask/FastAPI, and modern JS.
+Focused on building reliable web systems with clear architecture, clean code, and thoughtful UX.  
+I have 2+ years of commercial experience and a strong background in **applied mathematics and computer science**.
+
 
 - 🎯 Looking to collaborate on meaningful products (web apps, data tools, bots)
-- 🧪 Interested in TDD, CI/CD, containerization, and database internals
-- 🌍 Based in Yerevan (remote-friendly)
-- 📫 Reach me: **nikitakzntcv@gmail.com** · [Telegram](https://t.me/Nikitas_ascendance)
+- 🧠 Enjoy learning new technologies through building real projects. 
+- 🌍 Based in Yerevan - open to remote work and team collaboration.
+- 🎓 Currently studying at university (Applied Mathematics & Computer Science).
+- 🎮 Hobbies: gaming, reading, hiking, and exploring how technology shapes creativity.
 
+📫 **Contact me:**  
+`nikitakzntcv@gmail.com` · [Telegram](https://t.me/Nikitas_ascendance)
 
 ## 🧰 Tech Stack:
 
@@ -25,9 +29,39 @@ Currently studying **Applied Mathematics & Computer Science** and shipping side-
 - React • Svelte
 - jQuery • Bootstrap 5 • Gulp
 
-#### Devops / CI/CD
+#### other
 - Docker • docker-compose • Git • GitHub Actions
 - Linux • Nginx
+
+
+## 💼 Commercial Experience
+
+### **E-commerce platform for a major audio equipment distributor**  
+_Sept 2022 - Apr 2024 (1.5 years), team of 4_  
+- Implemented new features on both frontend and backend.  
+- Integrated third-party APIs (logistics, payment, 1C sync).  
+- Added Celery-based async tasks for notifications and updates.  
+- Designed and maintained CI/CD pipelines with Docker.  
+- Built system for discounts, bulk promotions, and user order tracking.
+
+### **Restaurant network web platform**  
+_Mar 2022 - Sept 2022 (6 months), team of 3_  
+- Implemented food delivery and table reservation system with city-specific interactive layouts.  
+- Built admin panel for managing reservations and orders.  
+- Integrated user registration via phone number and added user dashboard.  
+- Contributed to responsive UI and Figma-based layouts.
+
+### **Marketing Telegram bot**  
+_Sept 2023 - Nov 2023 (solo project)_  
+- Developed subscription system with tiered content access.  
+- Implemented scheduled messaging and content management in Django Admin.  
+- Used polling to receive updates from Telegram API.
+
+## 🧩 Personal Projects
+*(Educational & experimental work)*
+- **Kanban Board Backend** - AI-powered task organizer (Flask, PostgreSQL, Docker, pytest, sqlalchemy, jinja2, html, css).  
+- **OurSQL** - a custom DBMS experiment on C++ (B+-tree indexes, query planner).  
+- **Solar System Tour** - Interactive frontent web project. Built to practice layout, animations, and DOM manipulation (JS, html, css, gulp)
 
 <!---
 ## 📈 GitHub Stats
