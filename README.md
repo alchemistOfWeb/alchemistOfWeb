@@ -60,26 +60,45 @@ _Sept 2023 - Nov 2023 (solo project)_
 ## 🧩 Personal Projects
 *(Educational & experimental work)*
 
-**TODO with ai** []
-> AI-powered task organizer (Flask, PostgreSQL, Docker, Docker-compose, pytest, sqlalchemy, jinja2).  
+### [TODO with ai]()
+> **Stack:** Flask, PostgreSQL, Docker, Docker Compose, SQLAlchemy, Jinja2, pytest  
+> AI-powered to-do manager built around OpenAI API integration.  
+> Users can generate and edit personalized task lists directly via ChatGPT prompts.  
+> Developed using **Test-Driven Development (TDD)**, including both integration and functional tests written with `pytest`.
 
-**STEPOS** - [https://github.com/alchemistOfWeb/Falsum-verum]
-> Some decription. coming soon
+### [STEPOS](https://github.com/alchemistOfWeb/Falsum-verum)
+> **Stack:** Django, React, Bootstrap 5  
+> College diploma project — a prototype of an educational platform similar to *Stepik*.  
+> Features include creating and managing courses with theory blocks, videos, and quizzes.  
+> Users can take tests and leave comments under each lesson.
   
-**Ulyanovsk Guided Tours** [https://github.com/alchemistOfWeb/Ulynovsk-guided-tours]
-> Some description. coming soon
+### [Ulyanovsk Guided Tours](https://github.com/alchemistOfWeb/Ulynovsk-guided-tours)
+> **Stack:** Django, React, Bootstrap 5, Yandex.Maps API  
+> College coursework project: an interactive city guide with map-based route visualization.  
+> Each location point on the map includes information about local landmarks and attractions.
   
-**Solar System Tour** [https://github.com/alchemistOfWeb/solarSystemTour]
-> Interactive frontent web project. Built to practice layout, animations, and DOM manipulation (JS, html, css, gulp)
+### [Solar System Tour](https://github.com/alchemistOfWeb/solarSystemTour)
+> **Stack:** JavaScript, HTML, CSS, Gulp, Pug  
+> Interactive frontend project.
+> Built to practice responsive layout, animations, and DOM manipulation.  
+> Includes custom Gulp build pipeline and GitHub Actions setup.
   
-**Kanban Board Backend** [https://github.com/alchemistOfWeb/Kanban_board_bkend]
-> Practice task (Django, DRF, Swagger).
+### [Kanban Board Backend](https://github.com/alchemistOfWeb/Kanban_board_bkend)
+> **Stack:** Django, Django REST Framework, Swagger  
+> Practice project focused on designing a REST API for task management systems.  
+> Includes interactive Swagger documentation for endpoints.
 
-**pd-11-19** [https://github.com/alchemistOfWeb/pd-11-19]
-> Interactive frontent web project.
+### [pd-11-19](https://github.com/alchemistOfWeb/pd-11-19)
+> **Stack:** HTML, CSS, JavaScript  
+> Early interactive web prototype featuring animated menus, background switching, and 3D-like UI elements.  
+> A small experimental project built purely for frontend practice and creative exploration.
   
-**OurSQL**
-> a custom DBMS experiment on C++ (B+-tree indexes, query planner).  
+### **OurSQL**
+> **Stack:** C++
+> **Platform:** Linux
+> A custom database engine experiment with B+-tree indexing and a basic query planner.  
+> Focused on understanding low-level storage structures and query execution logic.
+> Uses posix-methods to handle SOCKET connections
   
 
 <!---
