@@ -60,18 +60,21 @@ _Sept 2023 - Nov 2023 (solo project)_
 ## 🧩 Personal Projects
 *(Educational & experimental work)*
 
-**Kanban Board Backend** []
-> AI-powered task organizer (Flask, PostgreSQL, Docker, pytest, sqlalchemy, jinja2, html, css).  
-  
+**TODO with ai** []
+> AI-powered task organizer (Flask, PostgreSQL, Docker, Docker-compose, pytest, sqlalchemy, jinja2).  
+
 **STEPOS** - [https://github.com/alchemistOfWeb/Falsum-verum]
 > Some decription. coming soon
   
 **Ulyanovsk Guided Tours** [https://github.com/alchemistOfWeb/Ulynovsk-guided-tours]
 > Some description. coming soon
   
-**Solar System Tour** []
+**Solar System Tour** [https://github.com/alchemistOfWeb/solarSystemTour]
 > Interactive frontent web project. Built to practice layout, animations, and DOM manipulation (JS, html, css, gulp)
   
+**Kanban Board Backend** [https://github.com/alchemistOfWeb/Kanban_board_bkend]
+> Practice task (Django, DRF, Swagger).
+
 **pd-11-19** [https://github.com/alchemistOfWeb/pd-11-19]
 > Interactive frontent web project.
   
