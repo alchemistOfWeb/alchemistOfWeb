@@ -13,7 +13,7 @@ I have 2+ years of commercial experience and a strong background in **applied ma
 - 🎮 Hobbies: gaming, reading, hiking, and exploring how technology shapes creativity.
 
 📫 **Contact me:**  
-`nikitakzntcv@gmail.com` · [Telegram](https://t.me/Nikitas_ascendance)
+`nikitakzntcv@gmail.com` · [Telegram](https://t.me/Nikitas_ascendance) · [personal page](https://alchemistofweb.github.io/my-page/)
 
 ## 🧰 Tech Stack:
 
@@ -108,17 +108,6 @@ _Sept 2023 - Nov 2023 (solo project)_
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alchemistOfWeb&layout=compact)
 ![Streak](https://streak-stats.demolab.com?user=alchemistOfWeb)
 
-
-## Portfolio
-
-| Проект | Описание |
-|--------|----------|
-| [Solar System Tour](https://github.com/alchemistOfWeb/solarSystemTour) | Интерактивный тур по солнечной системе (Django + JS) |
-| [Film Base](https://github.com/alchemistOfWeb/film_base)               | База данных фильмов с поиском / рейтингами |
-| [Kanban Board Backend](https://github.com/alchemistOfWeb/Kanban_board_bkend) | Бэкенд-сервис для канбан-доски (FastAPI + PostgreSQL) |
-| [Checklist Service](https://github.com/alchemistOfWeb/checklist_service) | Сервис чек-листов с автосохранением и API |
-| [Opinion Scrapper](https://github.com/alchemistOfWeb/opinion_scrapper_project) | Скрипт-парсер мнений/отзывов с сайтов, экспорт в CSV |
---->
 
 <!---
 alchemistOfWeb/alchemistOfWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
