@@ -2,7 +2,6 @@
 
 # 👋 Hi, I'm AlchemistOfWeb - Full-stack Python Developer
 
-Focused on building reliable web systems with clear architecture, clean code, and thoughtful UX.  
 I have 2+ years of commercial experience and a strong background in **applied mathematics and computer science**.
 
 
